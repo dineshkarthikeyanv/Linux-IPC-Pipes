@@ -100,8 +100,7 @@ int main() {
 
 ## OUTPUT
 
-![Pipe Output](images/Screenshot%20at%202026-03-20%2011-10-32.png)
-
+![Output 1](images/Screenshot%20at%202026-03-20%2010-58-47.png)
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 #include <stdio.h>
@@ -176,13 +175,6 @@ int main() {
     return 0;
 }
 
-
-
-
-
-
-### Output
-![Output 1](images/Screenshot%20at%202026-03-20%2010-58-47.png)
 
 ### Output
 ![Output 2](images/Screenshot%20at%202026-03-20%2011-10-32.png)
