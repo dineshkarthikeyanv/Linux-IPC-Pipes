@@ -24,6 +24,7 @@ Testing the C Program for the desired output.
 # PROGRAM:
 
 ## C Program that illustrate communication between two process using unnamed pipes using Linux API system calls
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -95,14 +96,16 @@ int main() {
 
     return 0;
 }
-
+```
 
 
 ## OUTPUT
 
-![Output 1](images/Screenshot%20at%202026-03-20%2010-58-47.png)
+![WhatsApp Image 2026-03-31 at 5 57 54 PM](https://github.com/user-attachments/assets/a4dc7e27-f74f-4c7d-8951-6b49137fb00f)
+
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -174,10 +177,11 @@ int main() {
 
     return 0;
 }
-
+```
 
 ### Output
-![Output 2](images/Screenshot%20at%202026-03-20%2011-10-32.png)
+![WhatsApp Image 2026-03-31 at 6 02 01 PM](https://github.com/user-attachments/assets/73a74f35-ceaa-47af-81a7-8cb1b3a58c1a)
+
 
 # RESULT:
 The program is executed successfully.
